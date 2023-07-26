@@ -1,4 +1,4 @@
-package Main;
+package Solutions;
 
 public class MissingNumber_248 {
     public static void main(String[] args) {

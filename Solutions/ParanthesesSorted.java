@@ -1,4 +1,4 @@
-package Main;
+package Solutions;
 
 public class ParanthesesSorted {
     public static void main(String[] args) {
