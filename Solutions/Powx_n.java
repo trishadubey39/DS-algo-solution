@@ -5,7 +5,7 @@ public class Powx_n {
         System.out.print(myPow(1.0000000000001, -2147483648));
     }
 
-        public double myPow(double x, int n) {
+        public static double myPow(double x, int n) {
       
         if(n < 0){
             n = -n;
