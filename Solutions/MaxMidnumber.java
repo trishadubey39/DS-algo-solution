@@ -1,4 +1,4 @@
-package Solutions;
+
 
 public class MaxMidnumber {
     public static void main(String[] args) {

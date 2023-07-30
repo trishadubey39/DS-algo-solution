@@ -6,7 +6,7 @@ public class SmallestNumberAfterSelf {
         int[] arr = { 5,2,6,1};
         countSmaller(arr);
     }
-        public static List<Integer> countSmaller(int[] nums) {
+    public static List<Integer> countSmaller(int[] nums) {
         int min = 20001;
         int max = -1;
         for (int num : nums) {
