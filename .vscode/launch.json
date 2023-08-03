@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BandWidthDistribution",
+            "request": "launch",
+            "mainClass": "BandWidthDistribution",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "BuddyString",
+            "request": "launch",
+            "mainClass": "BuddyString",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListRevamping",
+            "request": "launch",
+            "mainClass": "LinkedListRevamping",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "LongetsCommonPrefix",
+            "request": "launch",
+            "mainClass": "LongetsCommonPrefix",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "MaxMidnumber",
+            "request": "launch",
+            "mainClass": "MaxMidnumber",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber_248",
+            "request": "launch",
+            "mainClass": "MissingNumber_248",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "ParanthesesSorted",
+            "request": "launch",
+            "mainClass": "ParanthesesSorted",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "Parentheses_Sorted",
+            "request": "launch",
+            "mainClass": "Parentheses_Sorted",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "Powx_n",
+            "request": "launch",
+            "mainClass": "Powx_n",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "RomanToNumber",
+            "request": "launch",
+            "mainClass": "RomanToNumber",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "SmallestNumberAfterSelf",
+            "request": "launch",
+            "mainClass": "SmallestNumberAfterSelf",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "StringToIntATIO",
+            "request": "launch",
+            "mainClass": "StringToIntATIO",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "TwoSums",
+            "request": "launch",
+            "mainClass": "TwoSums",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "super_pow_x_n",
+            "request": "launch",
+            "mainClass": "super_pow_x_n",
+            "projectName": "DS-algo-solution_554be09e"
+        }
+    ]
+}

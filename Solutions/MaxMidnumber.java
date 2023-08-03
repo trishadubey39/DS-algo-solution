@@ -1,5 +1,4 @@
 
-
 public class MaxMidnumber {
     public static void main(String[] args) {
         int[] arr = { 4, 12, 15, 55, 88, 17, 14, 13, 3 };

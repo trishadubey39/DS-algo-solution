@@ -1,4 +1,3 @@
-package Solutions;
 
 public class LinkedListRevamping {
     public static void main(String[] args) {

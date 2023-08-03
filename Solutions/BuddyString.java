@@ -9,7 +9,6 @@ public class BuddyString {
     public static void main(String[] args) {
         System.out.print(buddyStrings("ab", "ba"));
     }
-
     public static boolean buddyStrings(String s, String goal) {
 
         for (int i = 0; i < s.toCharArray().length; i++) {
