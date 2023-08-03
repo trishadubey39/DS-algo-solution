@@ -8,7 +8,6 @@ public class StringToIntATIO {
         boolean isNegative = false;
         int num = 0;
         int i = 0;
-
         if (s.length() == 0) {
             return 0;
         }
