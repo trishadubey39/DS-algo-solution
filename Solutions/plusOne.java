@@ -11,13 +11,12 @@ public class plusOne {
             digits[digits.length-1] = digits[digits.length-1] +1 ;
             return digits;
         }else{
-            int[] arr = new int[digits.length+1];
+            int[] arr = new int[digits.length];
             boolean borrow = false;
-            for(int i =arr.length-1;i>=0;i--){
+            for(int i =arr.length-1;i>0;i--){
                 if(i==arr.length){
                     arr[i] = 0;
                 }else{
-                    if(borrow){
                         if(digits[i]==9){
                             borrow = true;
                             arr[i]=0;
@@ -25,10 +24,10 @@ public class plusOne {
                           borrow = false;
                           arr[i]=digits[i]+1;  
                         }
-                    }else{
-                        borrow = false;
-                        arr[i] = digits[i];
-                    }
+                    // }else{
+                    //     borrow = false;
+                    //     arr[i] = digits[i];
+                    // }
                 }
                 
             }
