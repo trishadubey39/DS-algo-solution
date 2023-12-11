@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMAxSubArrayWithK",
+            "request": "launch",
+            "mainClass": "FindMAxSubArrayWithK",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "DoubleModularExponentiation",
+            "request": "launch",
+            "mainClass": "DoubleModularExponentiation",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "CountTestedDevicesAfterTestOperations",
+            "request": "launch",
+            "mainClass": "CountTestedDevicesAfterTestOperations",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "RemoveAdjacentAlmostEqualCharacters",
+            "request": "launch",
+            "mainClass": "RemoveAdjacentAlmostEqualCharacters",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "FindCommonElementsBetweenTwoArrays",
+            "request": "launch",
+            "mainClass": "FindCommonElementsBetweenTwoArrays",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "FindtheHighestAltitude",
+            "request": "launch",
+            "mainClass": "FindtheHighestAltitude",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
