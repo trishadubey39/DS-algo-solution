@@ -15,5 +15,4 @@ public class RemoveNumber {
 
         return index;
     }
-    \
 }
