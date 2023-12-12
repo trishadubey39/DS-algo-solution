@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "FindMAxSubArrayWithK",
             "request": "launch",
             "mainClass": "FindMAxSubArrayWithK",
