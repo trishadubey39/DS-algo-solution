@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxPointsOnALine",
+            "request": "launch",
+            "mainClass": "MaxPointsOnALine",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "ThreeSum",
             "request": "launch",
             "mainClass": "ThreeSum",
