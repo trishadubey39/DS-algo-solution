@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConvertArrayInto2DArray",
+            "request": "launch",
+            "mainClass": "ConvertArrayInto2DArray",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "MinimumChangesToMakeAlternatingBinaryString",
             "request": "launch",
             "mainClass": "MinimumChangesToMakeAlternatingBinaryString",
