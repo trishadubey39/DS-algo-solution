@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordPattern",
+            "request": "launch",
+            "mainClass": "WordPattern",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "RansomNote",
             "request": "launch",
             "mainClass": "RansomNote",
