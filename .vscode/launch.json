@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContainsDuplicateII",
+            "request": "launch",
+            "mainClass": "ContainsDuplicateII",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "ReverseWordsinaString",
             "request": "launch",
             "mainClass": "ReverseWordsinaString",
