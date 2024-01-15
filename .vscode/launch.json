@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "FindPlayersWithZeroOrOneLosses",
+            "request": "launch",
+            "mainClass": "FindPlayersWithZeroOrOneLosses",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "WordPattern",
             "request": "launch",
             "mainClass": "WordPattern",
