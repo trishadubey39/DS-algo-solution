@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "H_Index",
+            "request": "launch",
+            "mainClass": "H_Index",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "ContainsDuplicateII",
             "request": "launch",
             "mainClass": "ContainsDuplicateII",
