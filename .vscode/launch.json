@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
+            "name": "HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "FindMaxConsecutiveOnes",
             "request": "launch",
             "mainClass": "FindMaxConsecutiveOnes",
