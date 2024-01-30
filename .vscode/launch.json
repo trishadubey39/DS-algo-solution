@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GasStation",
+            "request": "launch",
+            "mainClass": "GasStation",
+            "projectName": "DS-algo-solution_554be09e"
+        },
+        {
+            "type": "java",
             "name": "Factorial",
             "request": "launch",
             "mainClass": "Factorial",
