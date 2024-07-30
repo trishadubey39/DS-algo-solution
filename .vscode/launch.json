@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumAverageSubarrayI",
+            "request": "launch",
+            "mainClass": "MaximumAverageSubarrayI",
+            "projectName": "DS-algo-solution_cbae81a9"
+        },
+        {
+            "type": "java",
+            "name": "LongestNiceSubArray",
+            "request": "launch",
+            "mainClass": "LongestNiceSubArray",
+            "projectName": "DS-algo-solution_cbae81a9"
+        },
+        {
+            "type": "java",
+            "name": "RelativeSortArray",
+            "request": "launch",
+            "mainClass": "RelativeSortArray",
+            "projectName": "DS-algo-solution_cbae81a9"
+        },
+        {
+            "type": "java",
+            "name": "AddZeros",
+            "request": "launch",
+            "mainClass": "AddZeros",
+            "projectName": "DS-algo-solution_cbae81a9"
+        },
+        {
+            "type": "java",
             "name": "GasStation",
             "request": "launch",
             "mainClass": "GasStation",
